@@ -1,0 +1,314 @@
+[
+  {
+    "id": "admision",
+    "nombre": "Admisión",
+    "descripcionCorta": "Proyecto para mejorar el proceso de admisión universitaria",
+    "descripcion": "El proyecto de Admisión busca mejorar y facilitar el proceso de admisión a la universidad mediante herramientas tecnológicas que simplifiquen los trámites y brinden información clara a los aspirantes. Trabajamos en colaboración con la Oficina de Registro para desarrollar soluciones que hagan más accesible la educación superior.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/admision.jpg",
+    "galeria": [
+      "/images/proyectos/admision/galeria1.jpg",
+      "/images/proyectos/admision/galeria2.jpg",
+      "/images/proyectos/admision/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Guía de Admisión",
+        "url": "#"
+      },
+      {
+        "titulo": "Calendario de Admisión",
+        "url": "#"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": "businternoGPS",
+    "nombre": "BusInternoGPS",
+    "descripcionCorta": "Sistema de seguimiento GPS para buses internos del campus",
+    "descripcion": "BusInternoGPS es un proyecto que implementa un sistema de seguimiento en tiempo real para los buses internos del campus universitario. Mediante una aplicación móvil, los estudiantes pueden conocer la ubicación exacta de los buses, tiempos estimados de llegada y planificar mejor sus desplazamientos dentro del campus, mejorando así la experiencia de movilidad interna.",
+    "categoria": "movilidad",
+    "imagen": "/images/proyectos/businterno.jpg",
+    "galeria": [
+      "/images/proyectos/businterno/galeria1.jpg",
+      "/images/proyectos/businterno/galeria2.jpg",
+      "/images/proyectos/businterno/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Descargar App",
+        "url": "#"
+      },
+      {
+        "titulo": "Mapa de Rutas",
+        "url": "#"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": "carritosmoviles",
+    "nombre": "CarritosMóviles",
+    "descripcionCorta": "Iniciativa de carritos móviles para venta de alimentos en el campus",
+    "descripcion": "El proyecto CarritosMóviles busca fomentar el emprendimiento estudiantil mediante la implementación de carritos móviles para la venta de alimentos y productos en el campus. Proporcionamos capacitación, apoyo técnico y una plataforma digital para que los estudiantes puedan gestionar sus negocios de manera eficiente, contribuyendo así a la economía local y brindando opciones alimenticias variadas a la comunidad universitaria.",
+    "categoria": "emprendimiento",
+    "imagen": "/images/proyectos/carritos.jpg",
+    "galeria": [
+      "/images/proyectos/carritos/galeria1.jpg",
+      "/images/proyectos/carritos/galeria2.jpg",
+      "/images/proyectos/carritos/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Programa de Emprendimiento",
+        "url": "#"
+      },
+      {
+        "titulo": "Mapa de Ubicaciones",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "deferia",
+    "nombre": "DeFeria",
+    "descripcionCorta": "Plataforma digital para ferias virtuales y presenciales",
+    "descripcion": "DeFeria es una plataforma que conecta productores locales con consumidores mediante ferias virtuales y presenciales. El proyecto facilita la organización de ferias, proporciona herramientas digitales para la venta de productos y promueve el consumo local y sostenible. Trabajamos con comunidades rurales para integrar la tecnología en sus procesos de comercialización y ampliar su alcance de mercado.",
+    "categoria": "comercio",
+    "imagen": "/images/proyectos/deferia.jpg",
+    "galeria": [
+      "/images/proyectos/deferia/galeria1.jpg",
+      "/images/proyectos/deferia/galeria2.jpg",
+      "/images/proyectos/deferia/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Calendario de Ferias",
+        "url": "#"
+      },
+      {
+        "titulo": "Registro de Productores",
+        "url": "#"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": "educacionespecial",
+    "nombre": "EducaciónEspecial",
+    "descripcionCorta": "Herramientas tecnológicas para educación especial",
+    "descripcion": "El proyecto de Educación Especial desarrolla herramientas tecnológicas adaptadas para estudiantes con necesidades educativas especiales. Trabajamos en colaboración con escuelas y centros especializados para crear software y dispositivos que faciliten el aprendizaje inclusivo, mejoren la accesibilidad y promuevan la autonomía de los estudiantes con diversas capacidades.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/educacionespecial.jpg",
+    "galeria": [
+      "/images/proyectos/educacionespecial/galeria1.jpg",
+      "/images/proyectos/educacionespecial/galeria2.jpg",
+      "/images/proyectos/educacionespecial/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Recursos Educativos",
+        "url": "#"
+      },
+      {
+        "titulo": "Guía para Docentes",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "facultadeducacion",
+    "nombre": "FacultadEducación",
+    "descripcionCorta": "Innovación tecnológica para la Facultad de Educación",
+    "descripcion": "Este proyecto trabaja en estrecha colaboración con la Facultad de Educación para implementar soluciones tecnológicas que mejoren los procesos de enseñanza-aprendizaje. Desarrollamos plataformas digitales, recursos multimedia y capacitaciones en tecnología educativa para docentes y estudiantes, contribuyendo a la modernización de las prácticas pedagógicas y la formación de educadores con competencias digitales.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/facultadeducacion.jpg",
+    "galeria": [
+      "/images/proyectos/facultadeducacion/galeria1.jpg",
+      "/images/proyectos/facultadeducacion/galeria2.jpg",
+      "/images/proyectos/facultadeducacion/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Recursos Pedagógicos",
+        "url": "#"
+      },
+      {
+        "titulo": "Capacitaciones",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "impresion3d",
+    "nombre": "Impresión3D",
+    "descripcionCorta": "Laboratorio de impresión 3D para proyectos educativos",
+    "descripcion": "El proyecto de Impresión 3D ofrece acceso a tecnologías de fabricación digital para la comunidad universitaria y escuelas asociadas. Contamos con un laboratorio equipado con impresoras 3D donde se desarrollan prototipos, materiales didácticos y soluciones innovadoras. Además, impartimos talleres de modelado e impresión 3D, fomentando habilidades técnicas y creativas en los participantes.",
+    "categoria": "tecnologia",
+    "imagen": "/images/proyectos/impresion3d.jpg",
+    "galeria": [
+      "/images/proyectos/impresion3d/galeria1.jpg",
+      "/images/proyectos/impresion3d/galeria2.jpg",
+      "/images/proyectos/impresion3d/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Solicitud de Impresión",
+        "url": "#"
+      },
+      {
+        "titulo": "Galería de Proyectos",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "microrredes",
+    "nombre": "Microrredes",
+    "descripcionCorta": "Desarrollo de microrredes eléctricas sostenibles",
+    "descripcion": "El proyecto Microrredes trabaja en el desarrollo e implementación de sistemas de generación y distribución eléctrica a pequeña escala, utilizando energías renovables. Colaboramos con comunidades rurales y campus universitarios para crear soluciones energéticas sostenibles, reducir la huella de carbono y promover la independencia energética mediante tecnologías limpias y accesibles.",
+    "categoria": "sostenibilidad",
+    "imagen": "/images/proyectos/microrredes.jpg",
+    "galeria": [
+      "/images/proyectos/microrredes/galeria1.jpg",
+      "/images/proyectos/microrredes/galeria2.jpg",
+      "/images/proyectos/microrredes/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Mapa de Instalaciones",
+        "url": "#"
+      },
+      {
+        "titulo": "Informes de Impacto",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "pitaya",
+    "nombre": "Pitaya",
+    "descripcionCorta": "Innovación tecnológica para el cultivo de pitaya",
+    "descripcion": "El proyecto Pitaya aplica tecnologías de monitoreo, automatización y análisis de datos para optimizar el cultivo de esta fruta tropical. Trabajamos con productores locales implementando sistemas de riego inteligente, monitoreo de condiciones ambientales y trazabilidad digital. Nuestro objetivo es aumentar la productividad, calidad y sostenibilidad de los cultivos mediante la aplicación estratégica de soluciones tecnológicas adaptadas al contexto local.",
+    "categoria": "agricultura",
+    "imagen": "/images/proyectos/pitaya.jpg",
+    "galeria": [
+      "/images/proyectos/pitaya/galeria1.jpg",
+      "/images/proyectos/pitaya/galeria2.jpg",
+      "/images/proyectos/pitaya/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Manual de Cultivo",
+        "url": "#"
+      },
+      {
+        "titulo": "Datos de Investigación",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "protiposeducativos",
+    "nombre": "PrototiposEducativos",
+    "descripcionCorta": "Desarrollo de prototipos tecnológicos para educación",
+    "descripcion": "Este proyecto se dedica al diseño y fabricación de prototipos tecnológicos con fines educativos. Creamos dispositivos interactivos, kits de experimentación y herramientas didácticas que facilitan la enseñanza de conceptos STEM en escuelas y colegios. Nuestros prototipos son de bajo costo, adaptados al contexto local y diseñados para promover el aprendizaje activo y experimental.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/prototipos.jpg",
+    "galeria": [
+      "/images/proyectos/prototipos/galeria1.jpg",
+      "/images/proyectos/prototipos/galeria2.jpg",
+      "/images/proyectos/prototipos/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Catálogo de Prototipos",
+        "url": "#"
+      },
+      {
+        "titulo": "Guías Didácticas",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "reciclaje",
+    "nombre": "Reciclaje",
+    "descripcionCorta": "Sistema inteligente para gestión de residuos y reciclaje",
+    "descripcion": "El proyecto Reciclaje implementa sistemas tecnológicos para optimizar la gestión de residuos en el campus y comunidades cercanas. Desarrollamos contenedores inteligentes, aplicaciones de seguimiento y plataformas educativas que promueven la correcta separación y reducción de desechos. Nuestro enfoque combina hardware, software y estrategias de concientización para crear una cultura de sostenibilidad y economía circular.",
+    "categoria": "sostenibilidad",
+    "imagen": "/images/proyectos/reciclaje.jpg",
+    "galeria": [
+      "/images/proyectos/reciclaje/galeria1.jpg",
+      "/images/proyectos/reciclaje/galeria2.jpg",
+      "/images/proyectos/reciclaje/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Guía de Reciclaje",
+        "url": "#"
+      },
+      {
+        "titulo": "Estadísticas de Impacto",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  },
+  {
+    "id": "robotikids",
+    "nombre": "Robotikids",
+    "descripcionCorta": "Talleres de robótica para niños y jóvenes",
+    "descripcion": "Robotikids ofrece talleres y cursos de robótica educativa dirigidos a niños y jóvenes de escuelas públicas. Utilizamos kits de robótica accesibles y metodologías lúdicas para introducir conceptos de programación, electrónica y resolución de problemas. El proyecto busca despertar vocaciones científicas y tecnológicas desde edades tempranas, especialmente en comunidades con acceso limitado a estas oportunidades educativas.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/robotikids.jpg",
+    "galeria": [
+      "/images/proyectos/robotikids/galeria1.jpg",
+      "/images/proyectos/robotikids/galeria2.jpg",
+      "/images/proyectos/robotikids/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Calendario de Talleres",
+        "url": "#"
+      },
+      {
+        "titulo": "Materiales Didácticos",
+        "url": "#"
+      }
+    ],
+    "destacado": true
+  },
+  {
+    "id": "tallerespython",
+    "nombre": "Talleres de Python",
+    "descripcionCorta": "Formación en programación Python para diversos públicos",
+    "descripcion": "Los Talleres de Python ofrecen formación en este lenguaje de programación a estudiantes universitarios, docentes y público general. Diseñamos cursos con diferentes niveles de complejidad, desde introductorios hasta aplicaciones específicas como análisis de datos, automatización o desarrollo web. El proyecto busca democratizar el acceso al conocimiento en programación y fomentar habilidades digitales relevantes para el mercado laboral actual.",
+    "categoria": "educacion",
+    "imagen": "/images/proyectos/python.jpg",
+    "galeria": [
+      "/images/proyectos/python/galeria1.jpg",
+      "/images/proyectos/python/galeria2.jpg",
+      "/images/proyectos/python/galeria3.jpg"
+    ],
+    "enlaces": [
+      {
+        "titulo": "Material de Cursos",
+        "url": "#"
+      },
+      {
+        "titulo": "Inscripción a Talleres",
+        "url": "#"
+      }
+    ],
+    "destacado": false
+  }
+]
